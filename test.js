@@ -11,7 +11,7 @@
  * Класс для работы с API
  *
  * @author		User Name
- * @version		v.1.0 (dd/mm/yyyy)
+ * @version		v.1.0 (17/12/2024)
  */
 class Api {
     constructor() {}
@@ -20,7 +20,7 @@ class Api {
      * Заполняет строковый шаблон template данными из объекта object
      *
      * @author		User Name
-     * @version		v.1.0 (dd/mm/yyyy)
+     * @version		v.1.0 (17/12/2024)
      * @param		{object} object
      * @param		{string} template
      * @return		{string}
